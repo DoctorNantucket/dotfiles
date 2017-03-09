@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/nbitzer/projects/jenkins-jobs/jenkins/ci'
+let g:netrw_dirhist_2='/home/nbitzer/dev/jenkins-jobs/deprecated'
+let g:netrw_dirhist_3='/home/nbitzer/dev/jenkins-jobs/build'
+let g:netrw_dirhist_4='/home/nbitzer/dev/puppet/puppet/local/vmware/manifests'

@@ -1,0 +1,4 @@
+id_rsa*
+github_rsa*
+known_hosts
+authorized_keys
